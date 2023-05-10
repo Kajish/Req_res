@@ -16,7 +16,7 @@ function getRandomUser() {
   const randomUser = users[randomIndex];
   return randomUser;
 }
-n;
+
 function addUser(user) {
   users.push(user);
   return users;
